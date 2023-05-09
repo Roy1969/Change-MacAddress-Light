@@ -16,8 +16,8 @@ This tool has been designed in case you need to change the physical address of t
 
 # Supported runtimes and operating systems
 
-.NET Framework 4.8 or higher
-Supported operating systems (32-bit and 64-bit)
+ - .NET Framework 4.8 or higher
+ - Supported operating systems (32-bit and 64-bit)
 
 Client:
  - Windows 11
