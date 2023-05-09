@@ -30,3 +30,8 @@ Server:
  - Windows Server 2016
  - Windows Server 2012
 
+# Features
+
+ - Detailed analysis of network resources
+ - Change physical address of network devices (no WWAN)
+ - Also works on wireless usb (improving)
