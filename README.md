@@ -35,3 +35,4 @@ Server:
  - Detailed analysis of network resources
  - Change physical address of network devices (no WWAN)
  - Also works on wireless usb (improving)
+ - ... more features coming soon
