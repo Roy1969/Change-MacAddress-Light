@@ -33,6 +33,6 @@ Server:
 # Features
 
  - Detailed analysis of network resources
- - Change physical address of network devices (no WWAN)
+ - Change physical address of network devices (no WWAN or modem)
  - Also works on wireless usb (improving)
  - ... more features coming soon, as soon as I have time
