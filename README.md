@@ -29,6 +29,7 @@ This tool has been designed in case you need to change the physical address of t
    - Windows Server 2016
    - Windows Server 2012
    - Windows Server 2008 R2
+   - Does not currently work in virtual machines (by deliberate choice)
 # Features
 
  - Detailed analysis of network resources
