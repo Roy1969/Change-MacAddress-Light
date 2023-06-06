@@ -34,5 +34,5 @@ This tool has been designed in case you need to change the physical address of t
 
  - Detailed analysis of network resources
  - Change physical address of network devices (no WWAN or modem)
- - Also works on wireless usb (improving)
+ - It will also work on wireless usb (in progress)
  - ... more features coming soon, as soon as I have time
