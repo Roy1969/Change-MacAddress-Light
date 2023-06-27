@@ -39,4 +39,4 @@ This tool has been designed in case you need to change the physical address of t
  - ... more features coming soon (as soon as I have time)
 
 # Download
-
+Latest stable release (recommended) https://github.com/Roy1969/Change-MacAddress-Light/releases
